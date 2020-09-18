@@ -8,7 +8,8 @@
 
 <style lang="scss">
 	main {
-		background-color: red;
+		background-color: black;
+		padding: 10px;
 
 		h1 { color: white }
 	}
