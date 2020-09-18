@@ -2,7 +2,8 @@
   "name": "svelte-app",
   "version": "1.0.0",
   "scripts": {
-    "build": "rm -rf public/build && rollup -c",
+    "removeBuild": "shx rm -rf public/build",
+    "build": "npm run removeBuild && rollup -c",
     "dev": "rollup -c -w",
     "start": "sirv public",
     "validate": "svelte-check"
