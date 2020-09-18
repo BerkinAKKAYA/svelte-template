@@ -1,6 +1,12 @@
 # svelte-template
 Customized Svelte Template with TypeScript
 
+### Features
+* SCSS Support
+* TypeScript Support
+
+![SS](https://i.imgur.com/f8NcA12.png)
+
 ### Notes
 * Creates source maps only for development (npm run dev)
 * If you use VS Code, use the new Svelte Extension.
