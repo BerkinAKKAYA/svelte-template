@@ -14,6 +14,6 @@ Customized Svelte Template with TypeScript
 ---
 
 ### Notes
-* If you use VS Code, use the new Svelte Extension.
-* TypeScript might complain about tsconfig.json till you run npm install then restart the editor.
+* If you use VS Code, use the new [Svelte Extension](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode).
+* TypeScript might complain about `tsconfig.json` till you run `npm install`, then restart the editor.
 * If you use VS Code, follow the instructions [here](https://daveceddia.com/svelte-with-sass-in-vscode/) for SCSS support
