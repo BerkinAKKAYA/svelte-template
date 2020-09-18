@@ -4,6 +4,7 @@ Customized Svelte Template with TypeScript
 ### Features
 * SCSS Support
 * TypeScript Support
+* `rollup-plugin-serve` in `rollup.config.js`
 
 ---
 
