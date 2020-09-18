@@ -12,6 +12,7 @@
     "@rollup/plugin-node-resolve": "^8.0.0",
     "@rollup/plugin-typescript": "^6.0.0",
     "@tsconfig/svelte": "^1.0.0",
+    "node-sass": "^4.14.1",
     "rollup": "^2.3.4",
     "rollup-plugin-livereload": "^2.0.0",
     "rollup-plugin-serve": "^1.0.4",
@@ -20,7 +21,7 @@
     "sirv-cli": "^1.0.0",
     "svelte": "^3.0.0",
     "svelte-check": "^1.0.0",
-    "svelte-preprocess": "^4.0.0",
+    "svelte-preprocess": "^4.3.0",
     "tslib": "^2.0.0",
     "typescript": "^3.9.3"
   },
