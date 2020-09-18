@@ -31,5 +31,5 @@ export default {
 		!production && livereload('public'),
 		production && terser()
 	],
-	watch: { clearScreen: false }
+	watch: { clearScreen: true }
 };
