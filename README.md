@@ -4,7 +4,7 @@ Customized Svelte Template with TypeScript
 ### Features
 * SCSS Support
 * TypeScript Support
-* Source Maps for only production
+* Source Maps for only development mode
 * `rollup-plugin-serve` in `rollup.config.js`
 
 ---
