@@ -1,5 +1,5 @@
 # svelte-template
-Customized Svelte Template with TypeScript
+Customized Svelte Template
 
 ### Features
 * SCSS Support
