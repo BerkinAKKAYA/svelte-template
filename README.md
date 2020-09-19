@@ -6,6 +6,7 @@ Customized Svelte Template
 
 -   SCSS Support
 -   TypeScript Support
+-   Prettier
 -   Source Maps for only development mode
 -   `rollup-plugin-serve` in `rollup.config.js`
 
