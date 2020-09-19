@@ -13,6 +13,9 @@ Customized Svelte Template
 
 ---
 
+### How To Use
+ * Run `npx degit berkinakkaya/svelte-template PROJECT_NAME`
+
 ### Notes
 * If you use VS Code, use the new [Svelte Extension](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode).
 * TypeScript might complain about `tsconfig.json` till you run `npm install`, then restart the editor.
