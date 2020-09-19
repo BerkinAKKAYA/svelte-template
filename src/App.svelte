@@ -12,6 +12,8 @@
 		padding: 10px;
 		margin-top: 10px;
 
-		h1 { color: white }
+		h1 {
+			color: white;
+		}
 	}
 </style>
