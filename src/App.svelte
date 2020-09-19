@@ -1,5 +1,5 @@
 <script lang="ts">
-	let name: string = "World";
+	let name: string = 'World';
 </script>
 
 <main>
