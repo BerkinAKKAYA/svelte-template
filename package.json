@@ -5,8 +5,7 @@
     "removeBuild": "shx rm -rf public/build",
     "build": "npm run removeBuild && rollup -c",
     "dev": "rollup -c -w",
-    "start": "sirv public",
-    "validate": "svelte-check"
+    "start": "sirv public"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^14.0.0",
@@ -22,7 +21,6 @@
     "shx": "^0.3.2",
     "sirv-cli": "^1.0.0",
     "svelte": "^3.0.0",
-    "svelte-check": "^1.0.0",
     "svelte-preprocess": "^4.3.0",
     "tslib": "^2.0.0",
     "typescript": "^3.9.3"
