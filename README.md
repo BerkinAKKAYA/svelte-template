@@ -19,6 +19,8 @@ Customized Svelte Template
 ### How To Use
 
 -   Run `npx degit berkinakkaya/svelte-template PROJECT_NAME`
+-   Run `cd PROJECT_NAME` and `npm install`
+-   **NOTE:** If you open the project before running `npm install`, TypeScript will complain about `tsconfig.json`. If that's the case, run `npm install` and restart the editor.
 
 ### VS Code Notes
 
@@ -26,7 +28,3 @@ Customized Svelte Template
 -   Use the new [Svelte Extension](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode).
 -   Set `Svelte > Language Server: Runtime` path for SCSS support ([Tutorial](https://daveceddia.com/svelte-with-sass-in-vscode/))
 -   If you use Prettier, set Default Formatter on VS Code as `esbenp.prettier-vscode` and enable `Format On Save`
-
-### Notes
-
--   TypeScript might complain about `tsconfig.json` till you run `npm install`, then restart the editor.
