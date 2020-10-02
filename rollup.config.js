@@ -26,7 +26,8 @@ export default {
 		commonjs(),
 		typescript({ sourceMap: !production, inlineSources: !production }),
 
-		!production && serve({ contentBase: "./public", port: 5000 }),
+		!production &&
+			serve({ contentBase: "./public", port: 5000, open: true }),
 		!production && livereload("public"),
 		production && terser(),
 	],
