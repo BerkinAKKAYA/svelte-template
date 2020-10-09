@@ -29,7 +29,7 @@ export default {
 		!production &&
 			serve({ contentBase: "./public", port: 5000, open: true }),
 		!production && livereload("public"),
-		production && terser(),
+		production && terser({ output: { comments: false } }),
 	],
 	watch: { clearScreen: true },
 };
